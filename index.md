@@ -1,10 +1,10 @@
 ---
 layout: home
 permalink: "/"
-title: Athena Jekyll Theme
+title: bens website
 
 ---
 
-A simple and elegant theme for Jekyll and GitHub Pages.
+
 
 
